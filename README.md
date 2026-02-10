@@ -13,6 +13,6 @@ Passionate about building impactful software with expertise in Java Full Stack D
 Actively seeking opportunities to innovate and contribute to meaningful projects.
 
 - 📍 Bangalore, India
-- 📧 varun.kpz.mail@gmail.com
+- 📧 varunkp.mail@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/varunkp)
 - [GitHub](https://github.com/freak073)
